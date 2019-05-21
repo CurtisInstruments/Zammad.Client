@@ -17,7 +17,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>latest</LangVersion>
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Asesjix</Company>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>

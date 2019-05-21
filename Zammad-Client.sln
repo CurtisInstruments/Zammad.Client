@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8784B7B1-BCB5-4244-A8F3-4673C48BFFF3}"
 EndProject
@@ -14,6 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{4550DA0B-B
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 		LICENSE = LICENSE
+		NuGet.config = NuGet.config
 		README.md = README.md
 	EndProjectSection
 EndProject
