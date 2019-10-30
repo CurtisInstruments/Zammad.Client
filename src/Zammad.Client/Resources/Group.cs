@@ -50,6 +50,6 @@ namespace Zammad.Client.Resources
         public DateTimeOffset UpdatedAt { get; set; }
 
         [JsonProperty("user_facing")]
-        public bool UserFacing { get; set; }
+        public bool? UserFacing { get; set; }
     }
 }
