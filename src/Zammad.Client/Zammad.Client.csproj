@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <AssemblyTitle>Zammad.Client</AssemblyTitle>
-    <Version>1.2.34</Version>
+    <Version>1.2.35</Version>
     <NeutralLanguage>en-US</NeutralLanguage>
     <Product>Zammad Client</Product>
     <Description>Zammad Client Library for .NET</Description>
@@ -23,7 +23,7 @@
   </PropertyGroup>
     
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
     
   <ItemGroup>
